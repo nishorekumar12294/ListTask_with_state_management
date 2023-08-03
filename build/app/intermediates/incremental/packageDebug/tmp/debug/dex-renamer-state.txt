@@ -1,0 +1,4 @@
+#Thu Aug 03 16:31:08 IST 2023
+base.0=/Users/cipl0950/AndroidStudioProjects/list_task_provider/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
