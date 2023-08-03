@@ -22,10 +22,8 @@
 # Solution :
 - Functional requirement related issue fixed.
 - We have followed below steps.
-   a. We have added AutomaticKeepAliveClientMixin on our _ListItemWidgetState class and implemented @override bool get wantKeepAlive => true function.
--  b. We have added super.build(context) on our _ListItemWidgetState class.
-   c. We have added separate widget functions for text, button.
--  d. We have removed for-loop from  the class file and directly added the list length on listview builder.
+   a. We have added provider state management to resolve this issue.
+   b. We have added separate widget functions for text, button.
 
 
 

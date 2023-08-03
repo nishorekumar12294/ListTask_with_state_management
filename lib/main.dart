@@ -28,7 +28,7 @@ class ListWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('ListView using provider'),
+        title: const Text('ListTask with state management'),
       ),
       body: Consumer<CommonNotifier>(
         builder: (context, notifier, _) {
